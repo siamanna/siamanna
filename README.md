@@ -4,7 +4,7 @@
 - How to reach me: Sia.Manna@unh.edu
 - Pronouns: she/her/hers
 
-  ### 🧰 Languages and Tools
+### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -22,6 +22,10 @@
 <br />
 
 #
+
+### 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=siamanna&show_icons=true&theme=gruvbox)
 <!---
 siamanna/siamanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
